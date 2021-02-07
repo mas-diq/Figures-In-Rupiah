@@ -10,29 +10,23 @@ This is my first desktop application was made in 2018 using the pascal object in
 
 ## Screenshot program
 
-### Loading Page
-### You will get a map of Indonesia on the home page
+### Loading Page : You will get a map of Indonesia on the home page
 ![alt text](https://github.com/mas-diq/Figures-In-Rupiah/blob/main/Screenshot/Screenshot-1.png)
 
-### Home Page
-### You can click the question mark (?) Button next to the heroes' pictures
+### Home Page : You can click the question mark (?) Button next to the heroes' pictures
 ![alt text](https://github.com/mas-diq/Figures-In-Rupiah/blob/main/Screenshot/Screenshot-2.png)
 
 
-### Money Display Page
-### You can see the figures of heroes in the money
+### Money Display Page : You can see the figures of heroes in the money
 ![alt text](https://github.com/mas-diq/Figures-In-Rupiah/blob/main/Screenshot/Screenshot-4.png)
 
-### Figures Page
-### You will get more information about these heroes, and also the stories behind their struggles by listening to the audio available on the "Mulai" button.
+### Figures Page : You will get more information about these heroes, and also the stories behind their struggles by listening to the audio available on the "Mulai" button.
 ![alt text](https://github.com/mas-diq/Figures-In-Rupiah/blob/main/Screenshot/Screenshot-5.png)
 
-### Special Place Page
-### You will get information about the place that is the background image of the money. and of course you can also listen to the audio on the "Mulai" button
+### Special Place Page : You will get information about the place that is the background image of the money. and of course you can also listen to the audio on the "Mulai" button
 ![alt text](https://github.com/mas-diq/Figures-In-Rupiah/blob/main/Screenshot/Screenshot-6.png)
 
-### Special Place Page
-### You will get information about the place that is the background image of the money. and of course you can also listen to the audio on the "Mulai" button
+### Special Place Page : You will get information about the place that is the background image of the money. and of course you can also listen to the audio on the "Mulai" button
 ![alt text](https://github.com/mas-diq/Figures-In-Rupiah/blob/main/Screenshot/Screenshot-7.png)
 
 ### Maker Page
